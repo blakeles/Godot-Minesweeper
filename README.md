@@ -1,5 +1,7 @@
 # Godot-Minesweeper
 
+Play on [itch.io](https://blakeles.itch.io/minesweeper-godot) or download from releases.
+
 This is my second godot project.
 I wanted to use a tile/block game like my previous project, however, I used a tilemap to generate the game this time around, rather than using individual scenes. This actually made a lot more sense and I was able to get a quick working game within about half an hour. Minesweeper was simpler to develop than block puzzle, and only took me a few hours to finish.
 
